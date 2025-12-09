@@ -10,7 +10,7 @@ A comprehensive data engineering and analytics project that analyzes pharmaceuti
 
 ## 📋 Project Overview
 
-This project implements an end-to-end data pipeline for analyzing drug medication data from a Kaggle dataset containing 11.8K rows and 9 columns. The pipeline processes information about medicines, their compositions, uses, side effects, manufacturers, and customer reviews to provide actionable insights for healthcare decision-making.
+This project implements an end-to-end data pipeline in snowflake for analyzing drug medication data from a Kaggle dataset containing 11.8K rows and 9 columns. The pipeline processes information about medicines, their compositions, uses, side effects, manufacturers, and customer reviews to provide actionable insights for healthcare decision-making.
 
 ## ✨ Key Features
 
